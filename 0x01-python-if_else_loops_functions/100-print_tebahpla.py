@@ -5,4 +5,4 @@ for i in reversed(range(26)):
         val = 65 + i
     else:
         val = 97 + i
-    print("{:c}".format(val) end="")
+    print("{:c}".format(val), end="")
