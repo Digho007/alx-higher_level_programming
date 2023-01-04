@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-for i in range(26):
+for i in reversed(range(26)):
     if i % 2 == 0:
         val = 65 + i
     else:
