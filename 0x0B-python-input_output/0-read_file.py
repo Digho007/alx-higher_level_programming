@@ -1,4 +1,3 @@
-8 lines (6 sloc)  234 Bytes
 #!/usr/bin/python3
 """This module defines a text file-reading function"""
 
